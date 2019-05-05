@@ -1,3 +1,7 @@
+add
+git config user.name "b"
+git config user.email "b"
+git commit -m "code 1 added"
 git remote add origin https://github.com/binoykb797/new
 git push -f origin master
 git pull origin master
